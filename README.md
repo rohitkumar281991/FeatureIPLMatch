@@ -4,9 +4,18 @@ This app taken list of IPL matches from user and creates a feature list out of t
 
 Home Page: 
 
-<img src="https://user-images.githubusercontent.com/13178473/155842607-67d7ccfc-ee13-482a-b9fd-ecec14c90154.jpg" width="250" height="500"> 		List of Teams: <img src="https://user-images.githubusercontent.com/13178473/155842609-99b65b8c-4264-43e1-b59b-dadbeddd836f.jpg" width="250" height="500"> 
+<img src="https://user-images.githubusercontent.com/13178473/155842607-67d7ccfc-ee13-482a-b9fd-ecec14c90154.jpg" width="250" height="500">
 
-Randomized feature list : <img src="https://user-images.githubusercontent.com/13178473/155842605-799e4cd5-aa18-4323-88ec-308cd2849a40.jpg" width="250" height="500">     Final match between : 
+List of Teams: 
+
+<img src="https://user-images.githubusercontent.com/13178473/155842609-99b65b8c-4264-43e1-b59b-dadbeddd836f.jpg" width="250" height="500"> 
+
+Randomized feature list : 
+
+<img src="https://user-images.githubusercontent.com/13178473/155842605-799e4cd5-aa18-4323-88ec-308cd2849a40.jpg" width="250" height="500">
+
+Final match between : 
+
 <img src="https://user-images.githubusercontent.com/13178473/155842600-f7fe7db7-4376-4aae-984c-baefa6b908dd.jpg" width="250" height="500">     
 
 Result page : <img src="https://user-images.githubusercontent.com/13178473/155842608-a17dd96d-4676-4782-a37e-3345e701e1b6.jpg" width="250" height="500">
