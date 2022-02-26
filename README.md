@@ -18,7 +18,9 @@ Final match between :
 
 <img src="https://user-images.githubusercontent.com/13178473/155842600-f7fe7db7-4376-4aae-984c-baefa6b908dd.jpg" width="250" height="500">     
 
-Result page : <img src="https://user-images.githubusercontent.com/13178473/155842608-a17dd96d-4676-4782-a37e-3345e701e1b6.jpg" width="250" height="500">
+Result page : 
+
+<img src="https://user-images.githubusercontent.com/13178473/155842608-a17dd96d-4676-4782-a37e-3345e701e1b6.jpg" width="250" height="500">
 
 1. Implemented features:
 	1. Home : 
