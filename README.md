@@ -47,4 +47,4 @@ Result page :
 		3. Data binding
 		4. Activity-Fragment communication, fragment-fragment communication
 		5. Live-MutableLive data
-		6.Room Db
+		6. Room Db
